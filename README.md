@@ -1,2 +1,2 @@
 # mghoskins-Data
-All things stored data that I have created
+All things data that I have created and stored personally
